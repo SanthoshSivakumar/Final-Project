@@ -1,0 +1,11 @@
+employee_id,input_role_outcome,input_current_skills,course_completion,years_of_experience,current_role,recommended_courses,suggested_skills
+JMD432,senior data engineer,['Python'],Yes,34,junior software engineer,"['Data Architecture and Design', 'Big Data Technologies', 'Cloud Data Engineering']","['Data Lakes', 'Hadoop', 'Spark']"
+JMD987,senior data engineer,['Devops'],yes,23,junior software engineer,"['Data Architecture and Design', 'Big Data Technologies', 'Cloud Data Engineering']","['Data Lakes', 'Hadoop', 'Spark']"
+JMD456,senior data engineer,['Data Lakes'],yes,10,junior software engineer,"['Big Data Technologies', 'Data Architecture and Design', 'Cloud Data Engineering']","['Data Lakes', 'Hadoop', 'Spark']"
+jmd456,senior data engineer,['junior software engineer'],Data Architecture and Design,34,junior software engineer,"['Data Architecture and Design', 'Big Data Technologies', 'Cloud Data Engineering']","['Data Lakes', 'Hadoop', 'Spark']"
+jmd23,senior data engineer,['Devops'],Big Data Technologies,11,junior data engineer,"['Big Data Technologies', 'Data Architecture and Design', 'Cloud Data Engineering']","['Data Lakes', 'Hadoop', 'Spark']"
+jmd345,senior software engineer,['Devops'],Data Architecture and Design,12,senior data engineer,"['Microservices Architecture', 'DevOps Essentials', 'Advanced JavaScript']","['Cloud Computing', 'DevOps']"
+JMD237,senior data engineer,['Data Lakes'],Big Data Technologie,12,senior software engineer,"['Big Data Technologies', 'Data Architecture and Design', 'Cloud Data Engineering']","['Hadoop', 'Spark']"
+JMD678,senior data engineer,['Python'],Big Data Technologies,12,senior software engineer,"['Data Architecture and Design', 'Cloud Data Engineering']","['Data Lakes', 'Hadoop', 'Spark']"
+JMD342,senior data engineer,['Hadoop'],Big Data Technologies,12,senior software engineer,"['Cloud Data Engineering', 'Data Architecture and Design']","['Data Lakes', 'Spark']"
+JMD342,senior data scientist,['junior data scientist'],"['Data Architecture and Design', 'Cloud Data Engineering']",12,junior data scientist,"['AI for Everyone', 'Deep Learning Specialization', 'Advanced Machine Learning']","['Natural Language Processing', 'TensorFlow']"
